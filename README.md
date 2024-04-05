@@ -2,10 +2,9 @@
 CGroup projectAlgorithmData structure
 
     By: Julien Barbier
-    Weight: 2
-    Project to be done (your team: Nwali Emmanuel)
-    Project will start Aug 22, 2023 1:00 AM, must end by Aug 25, 2023 1:00 AM
-    Checker was released at Aug 22, 2023 7:00 PM
+     Project to be done in teams of 2 people (your team: Nwali Emmanuel)
+     Project over - took place from Mar 26, 2024 6:00 AM to Mar 29, 2024 6:00AM
+     An auto review will be launched at the deadline
     An auto review will be launched at the deadline
 
 
